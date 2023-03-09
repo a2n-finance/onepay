@@ -4,7 +4,7 @@ With ONEPAY, users can create batch payments with a variety of options, includin
 
 
 Web URL: [OnePay](https://onepay.a2n.finance) (Lisbon Testnet)
-
+Smart Contract Address: [OnePay](https://lisbon.tracker.solidwallet.io/contract/cx1eec86a2e2de2cd73e3e80e48deaa703e317d6c0#code)
 
 ## Getting Started
 These are instructions on how to install and run your dApp. Include prerequisites, installation steps, and commands needed to start the application.
